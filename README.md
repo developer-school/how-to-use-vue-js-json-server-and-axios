@@ -1,24 +1,6 @@
-# hello-axios
+# Create a Vue.js 3 App with JSON Server and Axios
 
-## Project setup
-```
-yarn install
-```
+This is part of a tutorial at [developer.school](https://developer.school/).
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+You can find a link to this project at [https://developer.school/tutorials/how-to-use-vue-js-json-server-and-axios](https://developer.school/tutorials/how-to-use-vue-js-json-server-and-axios).
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
